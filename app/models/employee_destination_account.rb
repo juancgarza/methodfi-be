@@ -1,0 +1,2 @@
+class EmployeeDestinationAccount < ApplicationRecord
+end
